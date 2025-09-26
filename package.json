@@ -17,6 +17,9 @@
     "cms",
     "auth"
   ],
+  "engines": {
+    "node": "16.x"
+  }
   "author": "Vaclav Klecanda <vencax77@gmail.com>",
   "license": "MIT",
   "dependencies": {
